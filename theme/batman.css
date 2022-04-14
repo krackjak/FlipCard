@@ -3,8 +3,6 @@ body {
 }
 
 .card {
-    height: 10rem;
-    width: 10rem;
     background-color: rgba(30, 30, 30, 0.6);
     border-radius: 10px;
     backdrop-filter: blur(3px);
@@ -28,3 +26,10 @@ body {
  .card.flip{
   transform: rotateY(180deg);
  }
+
+ h2{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   color: rgb(254, 220, 118);
+ }
+
+ 
